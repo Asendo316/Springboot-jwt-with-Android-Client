@@ -1,5 +1,5 @@
 # Springboot-jwt-with-Android-Client
-An Example Spring Boot Application for Securing a REST API with JSON Web Token (JWT)and calling it in a client android application
+A simple Spring Boot Application for Securing a REST API with JSON Web Token (JWT)and calling it in a client android application
 This application can be used start your spring boot REST API project with a fully functional security module and an android application to communicate with the api
 
 ## Prerequisites
